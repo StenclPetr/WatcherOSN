@@ -1,0 +1,26 @@
+C:\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\bin\Debug\wosncli.exe
+C:\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\bin\Debug\wosncli.pdb
+C:\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\obj\Debug\wosncli.exe
+C:\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\obj\Debug\wosncli.pdb
+C:\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\bin\Debug\wosncli.exe.config
+\\49svs2228\c$\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\bin\Debug\wosncli.exe.config
+\\49svs2228\c$\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\bin\Debug\wosncli.exe
+\\49svs2228\c$\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\bin\Debug\wosncli.pdb
+\\49svs2228\c$\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\obj\Debug\wosncli.csprojResolveAssemblyReference.cache
+\\49svs2228\c$\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\obj\Debug\wosncli.csproj.CoreCompileInputs.cache
+\\49svs2228\c$\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\obj\Debug\wosncli.exe
+\\49svs2228\c$\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\obj\Debug\wosncli.pdb
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\bin\Debug\wosncli.exe.config
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\bin\Debug\wosncli.exe
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\bin\Debug\wosncli.pdb
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\obj\Debug\wosncli.csprojResolveAssemblyReference.cache
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\obj\Debug\wosncli.csproj.CoreCompileInputs.cache
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\obj\Debug\wosncli.exe
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosncli\obj\Debug\wosncli.pdb
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosncli\bin\Debug\wosncli.exe.config
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosncli\bin\Debug\wosncli.exe
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosncli\bin\Debug\wosncli.pdb
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosncli\obj\Debug\wosncli.csproj.CoreCompileInputs.cache
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosncli\obj\Debug\wosncli.exe
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosncli\obj\Debug\wosncli.pdb
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosncli\obj\Debug\wosncli.csprojResolveAssemblyReference.cache

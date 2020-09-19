@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SVSLAN>
+  <PC>
+    <jmeno>Stanice 1</jmeno>
+    <adresa>192.168.6.1</adresa>
+    <mac>00-14-22-3A-12-29</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 2</jmeno>
+    <adresa>192.168.6.2</adresa>
+    <mac>00-14-22-3A-26-F8</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 3</jmeno>
+    <adresa>192.168.6.3</adresa>
+    <mac>00-14-22-3B-E0-57</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 4</jmeno>
+    <adresa>192.168.6.4</adresa>
+    <mac>00-14-22-3A-16-15</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 5</jmeno>
+    <adresa>192.168.6.5</adresa>
+    <mac>00-14-22-37-52-64</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 6</jmeno>
+    <adresa>192.168.6.6</adresa>
+    <mac>00-14-22-3A-44-16</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 7</jmeno>
+    <adresa>192.168.6.7</adresa>
+    <mac>00-14-22-37-60-CB</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 8</jmeno>
+    <adresa>192.168.6.8</adresa>
+    <mac>00-14-22-3B-DF-B6</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 9</jmeno>
+    <adresa>192.168.6.9</adresa>
+    <mac>00-14-22-37-A0-DC</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 10</jmeno>
+    <adresa>192.168.6.10</adresa>
+    <mac>00-14-22-37-43-9E</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 11</jmeno>
+    <adresa>192.168.6.11</adresa>
+    <mac>00-14-22-37-8C-82</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 12</jmeno>
+    <adresa>192.168.6.12</adresa>
+    <mac>00-14-22-37-6E-9C</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 13</jmeno>
+    <adresa>192.168.6.13</adresa>
+    <mac>00-14-22-39-A6-FB</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 14</jmeno>
+    <adresa>192.168.6.14</adresa>
+    <mac>00-14-22-3A-45-16</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 15</jmeno>
+    <adresa>192.168.6.15</adresa>
+    <mac>00-19-DB-F8-89-17</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 16</jmeno>
+    <adresa>192.168.6.16</adresa>
+    <mac>00-14-22-37-94-07</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 17</jmeno>
+    <adresa>192.168.6.17</adresa>
+    <mac>00-14-22-37-AD-A8</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 18</jmeno>
+    <adresa>192.168.6.18</adresa>
+    <mac>00-14-22-37-89-8D</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 19</jmeno>
+    <adresa>192.168.6.19</adresa>
+    <mac>00-14-22-37-4F-E4</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 20</jmeno>
+    <adresa>192.168.6.20</adresa>
+    <mac>00-14-22-39-A5-B6</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 21</jmeno>
+    <adresa>192.168.6.21</adresa>
+    <mac>00-14-22-37-71-D5</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 22</jmeno>
+    <adresa>192.168.6.22</adresa>
+    <mac>00-14-22-3D-08-D1</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 23</jmeno>
+    <adresa>192.168.6.23</adresa>
+    <mac>00-14-22-37-63-C7</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 24</jmeno>
+    <adresa>192.168.6.24</adresa>
+    <mac>00-14-22-3B-DD-63</mac>
+  </PC>
+  <PC>
+    <jmeno>Stanice 25</jmeno>
+    <adresa>192.168.6.25</adresa>
+    <mac>2C-44-FD-38-20-C3</mac>
+  </PC>
+  <PC>
+    <jmeno>Watcher</jmeno>
+    <adresa>192.168.6.26</adresa>
+    <mac>00-18-8B-28-0D-D3</mac>
+  </PC>
+  <PC>
+    <jmeno>Učebna č.2</jmeno>
+    <adresa>192.168.6.27</adresa>
+    <mac>00-14-22-3A-3E-70</mac>
+  </PC>
+  <PC>
+    <jmeno>PA</jmeno>
+    <adresa>192.168.6.28</adresa>
+    <mac>2C-44-FD-31-FB-AF</mac>
+  </PC>
+  <PC>
+    <jmeno>CNC</jmeno>
+    <adresa>192.168.6.29</adresa>
+    <mac>A0-B3-CC-FB-A9-E4</mac>
+  </PC>
+  <PC>
+    <jmeno>INF 1</jmeno>
+    <adresa>192.168.6.31</adresa>
+    <mac>00-14-22-38-60-6D</mac>
+  </PC>
+  <PC>
+    <jmeno>INF 2</jmeno>
+    <adresa>192.168.6.32</adresa>
+    <mac>00-16-76-CF-AC-11</mac>
+  </PC>
+  <PC>
+    <jmeno>Infopanel</jmeno>
+    <adresa>192.168.6.35</adresa>
+    <mac>00-11-11-63-23-0C</mac>
+  </PC>
+</SVSLAN>

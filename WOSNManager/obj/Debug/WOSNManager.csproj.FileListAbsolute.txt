@@ -1,0 +1,32 @@
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\bin\Debug\WOSNManager.exe
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\bin\Debug\WOSNManager.pdb
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.FrmMain.resources
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.Properties.Resources.resources
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.csproj.GenerateResource.cache
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.csproj.CoreCompileInputs.cache
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.exe
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.pdb
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.csprojResolveAssemblyReference.cache
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.frmScreenShot.resources
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.frmDialog.resources
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.frmListProcesu.resources
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.frmApp.resources
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\bin\Debug\WOSNManager.exe.config
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\bin\Debug\rozsahSledovanýchPC.xml
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\WOSNManager\bin\Debug\settings.xml
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\bin\Debug\rozsahSledovanýchPC.xml
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\bin\Debug\settings.xml
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\bin\Debug\WOSNManager.exe.config
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\bin\Debug\WOSNManager.exe
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\bin\Debug\WOSNManager.pdb
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.csprojAssemblyReference.cache
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.frmApp.resources
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.frmDialog.resources
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.frmListProcesu.resources
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.frmMain.resources
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.frmScreenShot.resources
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.Properties.Resources.resources
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.csproj.GenerateResource.cache
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.exe
+C:\Users\Petr\Desktop\WatcherOSN projekt\WatcherOSN projekt\WOSNManager\obj\Debug\WOSNManager.pdb

@@ -1,0 +1,25 @@
+\\49svs2228\c$\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.exe
+\\49svs2228\c$\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.pdb
+C:\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\bin\Debug\wosnclis.exe
+C:\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\bin\Debug\wosnclis.pdb
+C:\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.ProjectInstaller.resources
+C:\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.csproj.GenerateResource.Cache
+C:\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.exe
+C:\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.pdb
+C:\Users\dcadmin\Documents\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.csprojResolveAssemblyReference.cache
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\bin\Debug\wosnclis.exe
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\bin\Debug\wosnclis.pdb
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.csprojResolveAssemblyReference.cache
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.ProjectInstaller.resources
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.csproj.GenerateResource.cache
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.csproj.CoreCompileInputs.cache
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.exe
+D:\reinstal\doc\Visual Studio 2015\Projects\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.pdb
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosnclis\bin\Debug\wosnclis.exe
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosnclis\bin\Debug\wosnclis.pdb
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.csprojResolveAssemblyReference.cache
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.ProjectInstaller.resources
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.csproj.GenerateResource.cache
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.csproj.CoreCompileInputs.cache
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.exe
+C:\Users\dcadmin\source\repos\WatcherOSN projekt\wosnclis\obj\Debug\wosnclis.pdb
